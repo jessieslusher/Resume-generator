@@ -1,2 +1,2 @@
 # Resume-generator
-This is a resume generator script written in Python using the docxtpl library. With this script, users can create professional-looking resumes by choosing to use a pre-built template or their own custom template.
+his is a Python script that generates a professional-looking resume in Word format. Users can choose to use a pre-built template or their own custom template to create their resume. The script prompts the user to enter their personal details, work experience, education, skills, awards, certifications, and publications. Once all the necessary information has been entered, the script generates a Word document of the resume.
