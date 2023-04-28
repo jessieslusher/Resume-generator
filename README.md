@@ -1,2 +1,2 @@
-# Resume-generator
-his is a Python script that generates a professional-looking resume in Word format. Users can choose to use a pre-built template or their own custom template to create their resume. The script prompts the user to enter their personal details, work experience, education, skills, awards, certifications, and publications. Once all the necessary information has been entered, the script generates a Word document of the resume.
+Resume Generator
+This is a Python script that generates a professional-looking resume in Word format. Users can choose to use a pre-built template or their own custom template to create their resume. The script prompts the user to enter their personal details, work experience, education, skills, awards, certifications, and publications. Once all the necessary information has been entered, the script generates a Word document of the resume.
